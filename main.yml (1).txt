@@ -1,0 +1,4 @@
+- name: Extract GO ZEE project
+  run: |
+    rm -rf go-zee-admin
+    unzip -q go-zee-admin-fixed-final.zip
